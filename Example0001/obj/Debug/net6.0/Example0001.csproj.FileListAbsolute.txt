@@ -3,3 +3,13 @@ C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство 
 C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\obj\Debug\net6.0\Example0001.AssemblyInfoInputs.cache
 C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\obj\Debug\net6.0\Example0001.AssemblyInfo.cs
 C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\obj\Debug\net6.0\Example0001.csproj.CoreCompileInputs.cache
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\bin\Debug\net6.0\Example0001.exe
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\bin\Debug\net6.0\Example0001.deps.json
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\bin\Debug\net6.0\Example0001.runtimeconfig.json
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\bin\Debug\net6.0\Example0001.dll
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\bin\Debug\net6.0\Example0001.pdb
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\obj\Debug\net6.0\Example0001.dll
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\obj\Debug\net6.0\refint\Example0001.dll
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\obj\Debug\net6.0\Example0001.pdb
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\obj\Debug\net6.0\Example0001.genruntimeconfig.cache
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example0001\obj\Debug\net6.0\ref\Example0001.dll

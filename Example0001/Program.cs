@@ -1,6 +1,6 @@
-﻿///void Insert()
+﻿///void Insert(int a)
 //{
-//Console.WriteLine("Вставить");
+//Console.WriteLine("Вставить " + a);
 //}
 
 int CreateNumber()
@@ -9,7 +9,7 @@ int CreateNumber()
    return number;
 }
 
-int MaxDigit(int number);
+int MaxDigit(int number)
 {
     int Decin = number / 10;
     int Edinic = number % 10;
@@ -26,5 +26,4 @@ int MaxDigit(int number);
 
 int a = CreateNumber();
 Console.WriteLine(a);
-int maxDigit = MaxDigit(a);
-Console.WriteLine(maxDigit);
+Console.WriteLine(MaxDigit(a));
