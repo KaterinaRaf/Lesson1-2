@@ -3,8 +3,13 @@
 
 int GetNumber()
 {
-    Console.WriteLine("Введите число А");
-    return Convert.ToInt32(Console.ReadLine());
+    int num = 0;
+    while (num <= 1)
+    {
+    Console.WriteLine("Введите число больше 1!");
+    num = Convert.ToInt32(Console.ReadLine());
+    }
+    return num;
 }
 
 int GetSum1toA(int A)
