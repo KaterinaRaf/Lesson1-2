@@ -7,7 +7,7 @@ int numLength(int x)
     int i = 0;
     while(x > 0 || x < 0)
     {
-        x = Math.Abs(x / 10);
+        x = Math.Abs(x / 10);  // модуль числа
         i++;
     }
     return i;
