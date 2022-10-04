@@ -21,7 +21,7 @@ string StringArray(int[] array, string split) // преобразование м
         textArray += array[i];
         if (i < length-1)
         {
-            textArray += split;
+            textArray += split; // добавление разделителя между эл-тами в строку
         }
     }
     return textArray;
