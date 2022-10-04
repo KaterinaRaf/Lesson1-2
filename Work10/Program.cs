@@ -48,4 +48,5 @@ void FindNumber(int[] arr) // поиск заданного числа в мас
 
 int[] array = new int[123];
 FillArray(array, -200, 201);
+Console.WriteLine("Случайно заполненный массив: [" +StringArray(array, ", ") + "]");
 FindNumber(array);
