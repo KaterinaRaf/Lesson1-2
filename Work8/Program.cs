@@ -27,7 +27,7 @@ string StringArray(int[] array, string split) // преобразование м
     return textArray;
 }
 
-void ChangeArray(int[] arr)
+void ChangeArray(int[] arr) // замена знаков
 {
     for (int i =0; i < arr.Length; i++)
     {
