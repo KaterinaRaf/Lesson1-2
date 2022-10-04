@@ -37,6 +37,6 @@ void ChangeArray(int[] arr)
 
 int[] array = new int[4];
 FillArray(array, -9, 9);
-Console.WriteLine("[" +StringArray(array, ", ") + "]");
+Console.WriteLine("Случайно заполненный массив: [" +StringArray(array, ", ") + "]");
 ChangeArray(array);
 Console.WriteLine("Массив с заменой элементов: " + "[" +StringArray(array, ", ") + "]");
