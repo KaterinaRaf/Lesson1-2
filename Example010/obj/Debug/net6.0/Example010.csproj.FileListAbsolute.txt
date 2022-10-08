@@ -1,0 +1,15 @@
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\bin\Debug\net6.0\Example010.exe
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\bin\Debug\net6.0\Example010.deps.json
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\bin\Debug\net6.0\Example010.runtimeconfig.json
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\bin\Debug\net6.0\Example010.dll
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\bin\Debug\net6.0\Example010.pdb
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\obj\Debug\net6.0\Example010.csproj.AssemblyReference.cache
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\obj\Debug\net6.0\Example010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\obj\Debug\net6.0\Example010.AssemblyInfoInputs.cache
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\obj\Debug\net6.0\Example010.AssemblyInfo.cs
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\obj\Debug\net6.0\Example010.csproj.CoreCompileInputs.cache
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\obj\Debug\net6.0\Example010.dll
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\obj\Debug\net6.0\refint\Example010.dll
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\obj\Debug\net6.0\Example010.pdb
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\obj\Debug\net6.0\Example010.genruntimeconfig.cache
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Example010\obj\Debug\net6.0\ref\Example010.dll
