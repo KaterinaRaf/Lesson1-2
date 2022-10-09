@@ -44,5 +44,4 @@ int m = GetNumberFromConsole("Введите размерность массив
     n = GetNumberFromConsole("Введите размерность массива n");
 int[,] array = InitializateArray(m,n);
 FillArray(array);
-
 PrintArray(array);
