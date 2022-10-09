@@ -64,5 +64,4 @@ int[,] array = InitializateArray(m,n);
 
 FillArray(array);
 PrintArray(array);
-int summa = DiagonalSum(array);
-Console.WriteLine("Сумма элементов главной диагонали: " +summa);
+Console.WriteLine("Сумма элементов главной диагонали: " +DiagonalSum(array));
