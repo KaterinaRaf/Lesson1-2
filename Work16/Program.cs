@@ -7,13 +7,18 @@ int GetNumberFromConsole(string text) //пользовательский вво�
     return Convert.ToInt32(Console.ReadLine());
 }
 
+int GetRandomValue(int i, int j)
+{
+    return new Random().Next(0, 10);
+}
+
 void FillArray(int[,] arr)
 {
     for(int i = 0; i < arr.GetLength(0); i++) // длина массива в строках
     {
         for(int j = 0; j < arr.GetLength(1); j++) // длина массива в столбце
         {
-            arr[i,j] = i + j; // принимает значения из метода
+            arr[i,j] = GetRandomValue(i, j); // принимает значения из метода
         }
     }
 }
