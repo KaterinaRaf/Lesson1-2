@@ -1,0 +1,15 @@
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\bin\Debug\net6.0\Work17.exe
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\bin\Debug\net6.0\Work17.deps.json
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\bin\Debug\net6.0\Work17.runtimeconfig.json
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\bin\Debug\net6.0\Work17.dll
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\bin\Debug\net6.0\Work17.pdb
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\obj\Debug\net6.0\Work17.csproj.AssemblyReference.cache
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\obj\Debug\net6.0\Work17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\obj\Debug\net6.0\Work17.AssemblyInfoInputs.cache
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\obj\Debug\net6.0\Work17.AssemblyInfo.cs
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\obj\Debug\net6.0\Work17.csproj.CoreCompileInputs.cache
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\obj\Debug\net6.0\Work17.dll
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\obj\Debug\net6.0\refint\Work17.dll
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\obj\Debug\net6.0\Work17.pdb
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\obj\Debug\net6.0\Work17.genruntimeconfig.cache
+C:\Users\эксперт\Desktop\ГБ\1 четверть\3. Знакомство с языком С#\Семинары\Lesson_2\Work17\obj\Debug\net6.0\ref\Work17.dll
