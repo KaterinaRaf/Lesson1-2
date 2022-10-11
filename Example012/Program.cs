@@ -4,10 +4,12 @@
 
 int countSets = 0;
 
-int InputNumber(string text) //пользовательский ввод данных
+(int, int, int) InputNumber(string text) //Кортеж - вывод из метода сразу нескольких данных!
 {
     Console.WriteLine(text);
-    return Convert.ToInt32(Console.ReadLine());
+    return (Convert.ToInt32(Console.ReadLine()),
+            Convert.ToInt32(Console.ReadLine()),
+            Convert.ToInt32(Console.ReadLine()));
 }
 
 int DivisionRemainder(int number, int divider) // определение остатка от деления
@@ -33,8 +35,12 @@ int DivisionFull(int number, int divider) //определение резуль�
         return 0;
 }
 
-int number = InputNumber("Введите числитель: "),
+/* int number = InputNumber("Введите числитель: "),
     divider = InputNumber("Введите знаменатель: ");
 
 Console.WriteLine($"{number}/{divider}={DivisionFull(number, divider)}, остаток {DivisionRemainder(number, divider)}");
-Console.WriteLine($"Количество проходов: {countSets}");
+Console.WriteLine($"Количество проходов: {countSets}"); */
+
+var number = InputNumber("Введите числитель: ");   //для кортежа
+Console.WriteLine(number.Item1);    // Item обращение к номеру эл-та
+
