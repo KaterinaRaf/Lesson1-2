@@ -8,9 +8,9 @@ int InputNumber(string text) //пользовательский ввод дан�
     return Convert.ToInt32(Console.ReadLine());
 }
 
-int DivisionRemainder(int number, int divider)
+int DivisionRemainder(int number, int divider) // определение остатка от деления
 {
-    if (number >= divider)
+    if (number >= divider) // условие остановки рекурсии
     {
         number -= divider;
         return DivisionRemainder(number, divider);
@@ -19,9 +19,9 @@ int DivisionRemainder(int number, int divider)
         return number;
 }
 
-int DivisionFull(int number, int divider)
+int DivisionFull(int number, int divider) //определение результата от деления
 {
-    if (number >= divider)
+    if (number >= divider) // условие остановки рекурсии
     {
         number -= divider;
         return DivisionFull(number, divider) + 1;
