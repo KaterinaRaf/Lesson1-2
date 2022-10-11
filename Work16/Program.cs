@@ -52,4 +52,5 @@ FillArray(array);
 PrintArray(array);
 Console.WriteLine();
 int[,] array2 = TranspositionArray(array);
-Console.WriteLine("Новый массив: " +array2);
+Console.WriteLine("Новый массив: ");
+PrintArray(array2);
