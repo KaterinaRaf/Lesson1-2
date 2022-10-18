@@ -60,6 +60,7 @@ int[,] ChangeArray(int[,] arr)
     }
     return arr;
 }
+
 //КОД ОСНОВНОЙ ПРОГРАММЫ
 int m = GetNumberFromConsole("Введите размерность массива m"),
     n = GetNumberFromConsole("Введите размерность массива n");
