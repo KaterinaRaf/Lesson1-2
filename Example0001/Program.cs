@@ -1,4 +1,4 @@
-﻿///void Insert(int a)
+//void Insert(int a)
 //{
 //Console.WriteLine("Вставить " + a);
 //}
