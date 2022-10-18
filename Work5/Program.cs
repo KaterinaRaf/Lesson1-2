@@ -13,7 +13,7 @@ int numLength(int x)
     return i;
 }
 
-
+//КОД ОСНОВНОЙ ПРОГРАММЫ
 Console.WriteLine("Введите число: ");
 int x = Convert.ToInt32(Console.ReadLine());
 
