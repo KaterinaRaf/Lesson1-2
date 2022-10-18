@@ -70,5 +70,3 @@ Console.WriteLine();
 PrintArray(array);
 Console.WriteLine();
 TranspositionArray(array);
-
-
