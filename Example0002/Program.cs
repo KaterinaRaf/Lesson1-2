@@ -18,6 +18,8 @@ Console.WriteLine("Верно!");
 else
 Console.WriteLine("Не верно!");
 
+// *** через другие методы *** //
+
 // bool result;
 // bool del7;
 // bool del23;
