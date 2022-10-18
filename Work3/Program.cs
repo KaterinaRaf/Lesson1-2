@@ -2,6 +2,7 @@
 //и находит расстояние между ними в 2D пространстве.
 // Math.Sqrt(int a); Math.Pow(x,2);
 
+
 double GetNumber(string name) // метод для ввода чисел
 {
     Console.WriteLine("Введите координату " + name);
