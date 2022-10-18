@@ -35,6 +35,7 @@ void ChangeArray(int[] arr) // замена знаков
     }
 }
 
+//КОД ОСНОВНОЙ ПРОГРАММЫ
 int[] array = new int[4];
 FillArray(array, -9, 9);
 Console.WriteLine("Случайно заполненный массив: [" +StringArray(array, ", ") + "]");
