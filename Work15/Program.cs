@@ -57,6 +57,7 @@ int DiagonalSum(int[,] arr)
     }
     return sum;
 }
+
 //КОД ОСНОВНОЙ ПРОГРАММЫ
 int m = GetNumberFromConsole("Введите размерность массива m"),
     n = GetNumberFromConsole("Введите размерность массива n");
