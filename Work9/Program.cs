@@ -40,7 +40,7 @@ int FindNumber(int[] arr, int find) // поиск заданного числа 
 }
 
 
-
+//КОД ОСНОВНОЙ ПРОГРАММЫ
 int[] array = new int[4];
 FillArray(array, -9, 9);
 Console.WriteLine("Случайно заполненный массив: [" +StringArray(array, ", ") + "]");
