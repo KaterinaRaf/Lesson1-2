@@ -1,4 +1,4 @@
-﻿int GetNumberThreeDigit() // метод для ввода чисел
+﻿int GetNumberThreeDigit() // метод для ввода чисел 
 {
     int num = 0;
     while (num < 99 || num > 999)
