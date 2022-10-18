@@ -62,7 +62,6 @@ void CountDisting(int[,] arr) // поиск заданного числа в м�
     }
 }
 
-
 //КОД ОСНОВНОЙ ПРОГРАММЫ
 int m = GetNumberFromConsole("Введите размерность массива m"),
     n = GetNumberFromConsole("Введите размерность массива n");
@@ -71,4 +70,3 @@ FillArray(array);
 PrintArray(array);
 Console.WriteLine();
 CountDisting(array);
-
