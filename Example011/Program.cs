@@ -52,6 +52,3 @@ int maxValue = GetNumberFromConsole("Введите максимальное ч�
 FillArray(array,minValue,maxValue);
 
 PrintArray(array);
-
-
-
